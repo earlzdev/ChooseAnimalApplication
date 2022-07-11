@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChooseAnimal</string>
+    <string name="Who_id_dat">Кто это?</string>
+    <string name="cat_button">Это кошка</string>
+    <string name="dog_button">Это собака</string>
+    <string name="birg_button">Это птица</string>
+    <string name="wrong_answer_text">Неправильно, попробуй еще раз</string>
+    <string name="right_answer_text">Правильно!</string>
+</resources>

@@ -1,4 +1,4 @@
-package com.esinilyadev.chooseanimal.di
+package com.esinilyadev.chooseanimal.sl
 
 import androidx.lifecycle.ViewModel
 

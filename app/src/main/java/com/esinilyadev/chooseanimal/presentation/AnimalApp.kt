@@ -4,9 +4,9 @@ import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.ViewModelStoreOwner
-import com.esinilyadev.chooseanimal.di.CoreModule
-import com.esinilyadev.chooseanimal.di.DependencyContainer
-import com.esinilyadev.chooseanimal.di.ViewModelsFactory
+import com.esinilyadev.chooseanimal.sl.CoreModule
+import com.esinilyadev.chooseanimal.sl.DependencyContainer
+import com.esinilyadev.chooseanimal.sl.ViewModelsFactory
 
 class AnimalApp: Application() {
 

@@ -2,10 +2,8 @@ package com.esinilyadev.chooseanimal.presentation
 
 import android.graphics.drawable.Drawable
 import android.util.Log
-import androidx.core.view.isVisible
 import androidx.lifecycle.*
-import com.esinilyadev.chooseanimal.di.CoreModule
-import kotlinx.coroutines.launch
+import com.esinilyadev.chooseanimal.sl.CoreModule
 
 class MainViewModel(
     private val provider: ResourceProvider,
